@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bookstore:jar">
+    <output-path>$PROJECT_DIR$/../../../../Programmin-Vũ Đình Văn-D04K14</output-path>
+    <root id="archive" name="bookstore.jar">
+      <element id="module-output" name="bookstore" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../mysql-connector-j-8.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
